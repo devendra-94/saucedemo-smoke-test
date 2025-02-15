@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sauce Automated Tests" preserve-order="true">
+    <test name ="Login And Main Menu">
+        <classes>
+            <class name="com.saucedemo.selcucumber.runners.AppLoginPageRunner"/>
+        </classes>
+    </test>
+</suite>
