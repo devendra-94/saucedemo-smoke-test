@@ -6,7 +6,7 @@ Intellij IDE or any other of choice in case there is need to update script.(opti
 
 For execute of scripts on Chrome or Internet explorer you need to have executable files for both drivers respectively and paste them at location "\src\test\resources\drivers" in project folder
 you need to download these executable files from below links
-Chrome:
+Chrome: https://googlechromelabs.github.io/chrome-for-testing/
 Internet Explorer:
 please follow the instructions to execute the tests on local:
 
